@@ -5,6 +5,18 @@ You will find here the agenda of past FORTH2020 monthly Zoom Meetings, with link
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
 
+## Meeting 32 - February 11th, 2023
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=m9zw_I7x_iI)
+
+- Porting ESP32forth to M5stack, by [Jason C-J Tay](https://github.com/Trozodejamon)
+- Alloc and Malloc, how to get free memory from the OS, by [Bill Ragsdale](https://github.com/BillRagsdale)
+- Introduction to Isomax, by [Brad Rodriguez](https://www.bradrodriguez.com/)
+- Figmy Forth, by [Julian Skidmore](https://github.com/Snial)
+- [First steps with Zeptoforth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-02-11/Zeptoforth-PI_PICO-CH1.pdf), by Christian Hinse
+- Poor man´s CASE, by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- Novix NC4000 PCB, by Mark Lacas
+
 ## Meeting 31 - January 21st, 2023
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=LUlam9L7BZo)
@@ -12,7 +24,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 - [Emu6502, a 65C02 emulator in Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-01-21/Emu6502_2023.01.pdf), by [Alex Dumont](https://adumont.github.io/)
 - Implementing PRINTF in Forth/R3, by [Pablo Reda](https://github.com/phreda4)
 - [Robots](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-01-21/Willem_Ouwerkerk_Robots_v2.pdf), by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
-- Win32forth, by [Bill Ragsdale](https://github.com/BillRagsdale)
+- [Win32forth](https://github.com/BillRagsdale/WIN32Forth-Guide), by [Bill Ragsdale](https://github.com/BillRagsdale)
 - Multiple personalities of Quote ", by [Ulrich Hoffmann](https://github.com/uho)
 - ESP32forth on M5stack teaser, by [Jason C-J Tay](https://github.com/Trozodejamon)
 - A touch interface for ESP32forth, by Jan Langevad
@@ -27,7 +39,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 - Recovering a Forth retro game Byte 1981, by Rick Carlino
 - Core1 Forth CPU, by Don Golding and [Demitri Peinado](https://github.com/dicpeynado)
 - Simulation and REPLIT, by [Rob Probin](http://zedcode.blogspot.com/)
-- So this is Christmas - ESP32forthStation, by [Ulrich Hoffmann](https://github.com/uho)
+- [So this is Christmas - ESP32forthStation](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-12-10/So_this_is_Christmas-ESP32forthStation.pdf), by [Ulrich Hoffmann](https://github.com/uho)
 - Home automation with ESP32forth, by Jan Langevaad
 - Development of an RC-servo library for Flashforth, by Christian Hinse
 - Open chat: expectations of Forth2020 group for 2023, by [Ulrich Hoffmann](https://github.com/uho) and [PeterForth](https://github.com/PeterForth)
@@ -95,7 +107,7 @@ This 28th meeting, our members showcased how they use Forth in their projects.
 
 - [FPGA Forth microcore](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-06-11/uCore-overview.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - [Mark 1 FORTH Computer](http://www.aholme.co.uk/Mk1/Architecture.htm), by [Andrew Holme](http://www.aholme.co.uk)
-- Flash transition layer in [Fignition](https://sites.google.com/site/libby8dev/fignition) by [Julian Skidmore](https://github.com/Snial)
+- Flash transition layer in [Fignition](https://sites.google.com/site/libby8dev/fignition), by [Julian Skidmore](https://github.com/Snial)
 - A modular MODBUS Server with STM8 eForth, by Thomas Goeppel
 - Esp32 Superexpander, by [Atle Ramsli](https://github.com/turnimator)
 - [ILI9488 3.5 display in Esp32Forth](https://esp32forth.forth2020.org/projects-1#h.bk5uz0wq7g44), by [PeterForth](https://github.com/PeterForth)
