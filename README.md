@@ -4,6 +4,59 @@ You will find here the agenda of past FORTH2020 monthly Zoom Meetings, with link
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
+## Meeting 36 - July 8th, 2023
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=pqhgPdtItjE)
+
+- Esp32forth Bluetooth communication, by Frank Russo
+- [MicroMouse with Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-07-08/Micromouse_control1.pdf), by [Rob Probin](http://zedcode.blogspot.com/)
+- Arcade-game sounds on AY chip using .afx file format, by [Matteo Vitturi](https://github.com/mattsteeldue)
+- Structures of Vocabularies on Win32forth, by [Bill Ragsdale](https://github.com/BillRagsdale)
+- Esp32forth corner -- Dividing ESP32forth, by [Brad Nelson](https://github.com/flagxor)
+- FPGA Forth CPU uCore on Altera, workshop lead by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+
+## Meeting 35 - June 3rd, 2023
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=tRt280Q325M)
+
+This meeting starts with several member's submission to the Elevator Challenge proposed by Peter Jackaki:
+
+- Atle Bergstrom Lift solution in ESp32forth
+- James Norris Lift solution in Diaperglu Win64 Forth
+- [Bill Ragsdale](https://github.com/BillRagsdale) Lift solution in Win32forth
+
+The meeting then follows with some members' presentations:
+
+- Literate programming in Forth, by Wolf Wejgaard
+- [Poor man's compiler](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-06-03/Poor_man's_compilers_foils.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- [NoForth](https://home.hccnet.nl/anij/nof/noforth.html) news, by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
+- Signing your Forth source, by [Ulrich Hoffmann](https://github.com/uho)
+- Quadrature Encoders in Mecrisp Bluepill for CNC, by Christian Hinse
+
+## Meeting 34 - April 8th, 2023
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=j6F9g-hO3G4)
+
+This meeting starts with several member's submission to the Elevator Challenge proposed by Peter Jackaki:
+
+- Peter Jakacki presents "the Elevator Challenge results"
+- Francois Laagel Lift solution on Forth Z79
+- Pablo Reda Lift solution in R3
+- George Orais Lift solution in ColorForth
+- Peter Forth Lift solution on ESp32Forth
+- Peter Jakacki Lift solution on TachyonForth
+- James Norris Lift solution on DiapergluForth
+- Matteo Vitturi Lift solution on SpectrumForth
+- Vladimir Gumenuk Lift solution on WinForth64
+
+The meeting then follows with some members' presentations:
+
+- Ulrich Hoffmann "VolksForth in the browser"
+- Ulrich Hoffmann "Project Forth Works"
+- Bill Ragsdale "Formatted Floats"
+- Howerd Oakford "Colorforth update"
+- Cecil Bayona "Step by Step compiling MinForth"
+- Don Golding "Update on Core1 and Kicad PCB"
 
 ## Meeting 32 - February 11th, 2023
 
@@ -11,8 +64,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 - Porting ESP32forth to M5stack, by [Jason C-J Tay](https://github.com/Trozodejamon)
 - Alloc and Malloc, how to get free memory from the OS, by [Bill Ragsdale](https://github.com/BillRagsdale)
-- Introduction to Isomax, by [Brad Rodriguez](https://www.bradrodriguez.com/)
-- Figmy Forth, by [Julian Skidmore](https://github.com/Snial)
+- [Introduction to Isomax](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-02-11/isomax-tutorial-feb2023.pdf), by [Brad Rodriguez](https://www.bradrodriguez.com/)
 - [First steps with Zeptoforth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-02-11/Zeptoforth-PI_PICO-CH1.pdf), by Christian Hinse
 - Poor man´s CASE, by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - Novix NC4000 PCB, by Mark Lacas
